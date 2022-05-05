@@ -1,0 +1,4 @@
+a) Ilosc petli: 5; ilosc warunkow: 6; k = 54;
+b) Ilosc petli: 5; k = 14;
+c) Ilosc petli: 2; ilosc warunkow: 3; x =5, y = 5, nwp = 5;
+d) Ilosc petli: 8; ilosc warunkow: 9; i = 13, j = 0;

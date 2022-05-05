@@ -9,7 +9,6 @@ i:=0;
 
 while x <> 0 do
     begin
-        
         suma:= suma+x;
         i:= i+1;
         readln(x);
